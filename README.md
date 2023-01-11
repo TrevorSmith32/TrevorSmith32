@@ -13,7 +13,7 @@ I am a web developer with a passion for creating dynamic, responsive, and visual
 - I am always eager to learn new things and improve my skills, I'm always looking to find new ways to do things
 
 ## Connect with Me
-- LinkedIn: [https://linkedin.com/in/username](https://www.linkedin.com/in/trevor-smith-engr/)
+- LinkedIn: [https://linkedin.com/in/trevor-smith-engr](https://www.linkedin.com/in/trevor-smith-engr/)
 - Email: trevorLBR@gmail.com
 
 Feel free to take a look around my profile and explore my projects. If you have any questions or just want to chat, don't hesitate to reach out!

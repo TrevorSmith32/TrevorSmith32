@@ -1,11 +1,14 @@
 # Welcome to my GitHub Profile!
 
-I am Trevor Smith, a web developer with a passion for creating dynamic, responsive, and visually stunning web apps. I am a self taught developer with an academic and professional background in the Mechanical and Aerospace Engineer industry :airplane:. I am always looking for new challenges to push my skills to the next level.
+I'm Trevor Smith, a web developer with a passion for creating dynamic, responsive, and visually stunning web apps. I am a self taught developer with an academic and professional background in the Mechanical and Aerospace Engineer industry :airplane:. I am always looking for new challenges to push my skills to the next level.
 
 ## Skills
 - Proficient in: HTML, CSS, JavaScript, Vue.js, Python, Django, SASS, Git, GitHub
 - Experience with: React, TypeScript, Node.js
 - Familiar with: Agile development methodologies
+
+## My Work
+- I am currently a full stack developer at a SaaS startup focusing on modernizing the highend cabinetry industry.
 
 ## My Approach
 - I believe that the key to creating great web apps is a combination of technical skills and an eye for design. I put a lot of thought into the user experience and the overall look and feel of a site.

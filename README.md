@@ -1,11 +1,11 @@
 # Welcome to my GitHub Profile!
 
-I am a web developer with a passion for creating dynamic, responsive, and visually stunning websites. I have experience with a variety of programming languages and frameworks, including HTML, CSS, JavaScript, React, and Node.js. I am always looking for new challenges to push my skills to the next level.
+I am a web developer with a passion for creating dynamic, responsive, and visually stunning websites. I have experience with a variety of programming languages and frameworks, including HTML, CSS, JavaScript, Vue.js, React, Node.js, Python, and Django. I am always looking for new challenges to push my skills to the next level.
 
 ## Skills
-- Proficient in: HTML, CSS, JavaScript
-- Experience with: React, Vue.js, Angular.js, SASS, LESS
-- Familiar with: Git, GitHub, Agile development methodologies
+- Proficient in: HTML, CSS, JavaScript, Vue.js, Python, Django, SASS, Git, GitHub
+- Experience with: React, TypeScript, Node.js
+- Familiar with: Agile development methodologies
 
 ## My Approach
 - I believe that the key to creating great websites is a combination of technical skills and an eye for design. I put a lot of thought into the user experience and the overall look and feel of a site.
@@ -13,9 +13,8 @@ I am a web developer with a passion for creating dynamic, responsive, and visual
 - I am always eager to learn new things and improve my skills, I'm always looking to find new ways to do things
 
 ## Connect with Me
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-- Twitter: [@username](https://twitter.com/username)
-- Email: username@example.com
+- LinkedIn: [https://linkedin.com/in/username](https://www.linkedin.com/in/trevor-smith-engr/)
+- Email: trevorLBR@gmail.com
 
 Feel free to take a look around my profile and explore my projects. If you have any questions or just want to chat, don't hesitate to reach out!
 

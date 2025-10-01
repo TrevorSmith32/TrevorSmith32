@@ -9,7 +9,7 @@ I'm Trevor Smith, a passionate Full Stack Developer with a knack for crafting in
 * **Flutter:** Expert-level proficiency in building cross-platform mobile apps with a focus on performance and user experience.
 * **React:** Deep understanding of React components, hooks, and state management for creating scalable web applications.
 * **JavaScript/TypeScript:** Great understanding of modern JavaScript and TypeScript for clean code and robust applications.
-* **Backend Development:** Proficient in Node.js, Djanog, and Ruby on Rails for building robust APIs and server-side logic.
+* **Backend Development:** Proficient in Node.js, Django, and Ruby on Rails for building robust APIs and server-side logic.
 * **Database Management:** Experienced in designing and optimizing database structures using PostgreSQL and SQL.
 * **Cloud Platforms:** Familiar with AWS for deploying and managing cloud-based applications.
 * **Version Control:** Expert in Git for efficient collaboration and code management.
